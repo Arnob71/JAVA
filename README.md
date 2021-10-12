@@ -1,2 +1,2 @@
 # JAVA-Tasks
-All tasks of JAVA programming are in here.
+All tasks of JAVA programming are here.
